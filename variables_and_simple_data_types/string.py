@@ -6,4 +6,3 @@ name = "rasidul hoque"
 # print(name.upper())
 
 print(name.lower())
-rasidul hoque
